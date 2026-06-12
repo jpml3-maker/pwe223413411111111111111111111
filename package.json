@@ -1,0 +1,8 @@
+{
+  "name": "ex16-parametros-rota",
+  "version": "1.0.0",
+  "description": "Exercício 16 — Parâmetros de Rota",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
